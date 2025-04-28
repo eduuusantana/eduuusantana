@@ -1,6 +1,6 @@
 ## Olá, me chamo Eduardo!👋
 
-- 📓 Engenharia de Software - 1/8
+- 📓 Engenharia de Software - 1/4
 
 <div>
   <a href="https://github.com/eduuusantana">
