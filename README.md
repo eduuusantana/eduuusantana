@@ -1,6 +1,8 @@
 ## Olá, me chamo Eduardo!👋
 
-- 📓 Engenharia de Software - 2/4
+🎓 Cursando o 3º período de Engenharia de Software na Unicesumar (Maringá/PR).
+🐍 Entusiasta de Python focado em Análise de Dados, Automação e IA's.
+🏁 Apaixonado por tecnologia e automobilismo.
 
 <div>
   <a href="https://github.com/eduuusantana">
